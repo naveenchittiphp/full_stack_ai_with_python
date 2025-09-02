@@ -372,4 +372,25 @@ LLMS -> Large language models
 Generally we have to write the code or structure langugeate to communcate with the system .
 But with LLMS we can communicate with human language . these are trained to understand the human language 
 
-to understand in the next video.
+1.LLM Meaning
+LLM = Large Language Model.
+AI system trained to understand and generate human language.
+2.Examples
+OpenAI → ChatGPT (GPT-3.5, GPT-4, GPT-4o, GPT-4 mini, etc.)
+Google → Gemini models (1.5, 2.5, Pro versions, etc.)
+Anthropic → Claude (Claude 4, Sonnet, Pro, etc.)
+3.What They Do
+Understand natural human language.
+Generate human-like responses.
+Allow humans to talk to machines in natural language (instead of coding in C, Java, etc.).
+4.How They Work (high-level idea)
+Trained on huge datasets (internet data: tweets, LinkedIn posts, articles, books, etc.).
+When you type a prompt, the LLM uses training + probability to generate the most likely next words.
+Example:
+Input: “What is 2 + 2?”
+Output: “4” (because it has seen and learned this pattern).
+ChatGPT vs GPT
+ChatGPT = Chat interface (app/website).
+GPT = The actual LLM behind ChatGPT.
+5.Core Idea
+The USP (Unique Selling Point) of LLMs: You can talk to machines in human language.
